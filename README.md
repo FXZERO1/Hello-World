@@ -1,3 +1,3 @@
-# Hello-World
-This is my First GitHub repository for projects.
-This my Branch exercise completed
+# Hello-World Branch
+This is a branch of my First GitHub repository.
+This is my readme-edit branch.
